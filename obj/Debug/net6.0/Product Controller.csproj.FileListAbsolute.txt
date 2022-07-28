@@ -1,0 +1,26 @@
+C:\Users\vaibh\myproject\Product Controller\Product Controller\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\vaibh\myproject\Product Controller\Product Controller\bin\Debug\net6.0\appsettings.json
+C:\Users\vaibh\myproject\Product Controller\Product Controller\bin\Debug\net6.0\Product Controller.staticwebassets.runtime.json
+C:\Users\vaibh\myproject\Product Controller\Product Controller\bin\Debug\net6.0\Product Controller.exe
+C:\Users\vaibh\myproject\Product Controller\Product Controller\bin\Debug\net6.0\Product Controller.deps.json
+C:\Users\vaibh\myproject\Product Controller\Product Controller\bin\Debug\net6.0\Product Controller.runtimeconfig.json
+C:\Users\vaibh\myproject\Product Controller\Product Controller\bin\Debug\net6.0\Product Controller.dll
+C:\Users\vaibh\myproject\Product Controller\Product Controller\bin\Debug\net6.0\Product Controller.pdb
+C:\Users\vaibh\myproject\Product Controller\Product Controller\obj\Debug\net6.0\Product Controller.csproj.AssemblyReference.cache
+C:\Users\vaibh\myproject\Product Controller\Product Controller\obj\Debug\net6.0\Product Controller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaibh\myproject\Product Controller\Product Controller\obj\Debug\net6.0\Product Controller.AssemblyInfoInputs.cache
+C:\Users\vaibh\myproject\Product Controller\Product Controller\obj\Debug\net6.0\Product Controller.AssemblyInfo.cs
+C:\Users\vaibh\myproject\Product Controller\Product Controller\obj\Debug\net6.0\Product Controller.csproj.CoreCompileInputs.cache
+C:\Users\vaibh\myproject\Product Controller\Product Controller\obj\Debug\net6.0\Product Controller.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vaibh\myproject\Product Controller\Product Controller\obj\Debug\net6.0\Product Controller.RazorAssemblyInfo.cache
+C:\Users\vaibh\myproject\Product Controller\Product Controller\obj\Debug\net6.0\Product Controller.RazorAssemblyInfo.cs
+C:\Users\vaibh\myproject\Product Controller\Product Controller\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\vaibh\myproject\Product Controller\Product Controller\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\vaibh\myproject\Product Controller\Product Controller\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\vaibh\myproject\Product Controller\Product Controller\obj\Debug\net6.0\scopedcss\bundle\Product Controller.styles.css
+C:\Users\vaibh\myproject\Product Controller\Product Controller\obj\Debug\net6.0\scopedcss\projectbundle\Product Controller.bundle.scp.css
+C:\Users\vaibh\myproject\Product Controller\Product Controller\obj\Debug\net6.0\Product Controller.dll
+C:\Users\vaibh\myproject\Product Controller\Product Controller\obj\Debug\net6.0\refint\Product Controller.dll
+C:\Users\vaibh\myproject\Product Controller\Product Controller\obj\Debug\net6.0\Product Controller.pdb
+C:\Users\vaibh\myproject\Product Controller\Product Controller\obj\Debug\net6.0\Product Controller.genruntimeconfig.cache
+C:\Users\vaibh\myproject\Product Controller\Product Controller\obj\Debug\net6.0\ref\Product Controller.dll
